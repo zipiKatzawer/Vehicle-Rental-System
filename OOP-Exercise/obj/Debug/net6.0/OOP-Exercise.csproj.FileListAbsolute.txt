@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\bin\Debug\net6.0\OOP-Exercise.exe
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\bin\Debug\net6.0\OOP-Exercise.deps.json
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\bin\Debug\net6.0\OOP-Exercise.runtimeconfig.json
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\bin\Debug\net6.0\OOP-Exercise.dll
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\bin\Debug\net6.0\OOP-Exercise.pdb
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.AssemblyInfo.cs
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.dll
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\refint\OOP-Exercise.dll
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.pdb
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\OOP-Exercise.genruntimeconfig.cache
+C:\Users\user1\Desktop\OOP-Exercise\OOP-Exercise\obj\Debug\net6.0\ref\OOP-Exercise.dll
